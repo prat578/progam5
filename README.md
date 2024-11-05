@@ -1,2 +1,2 @@
 # progam5
-line1 remote
+line1 local
